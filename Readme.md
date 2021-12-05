@@ -29,11 +29,11 @@ Tech:
 5. Kotlin Gradle: 1.6.0
 6. Minimum SDK level 21
 
-Libraries diantaranya : 
-Database: Pada login dan register, kami menggunakan database Firebase sebagai utama
-Lottie (Libraries yang menampilkan sebagai animasi dalam bentuk JSON dan menggunakan animasi yang sudah jadi di https://lottiefiles.com),
-Moshi (Moshi sebagai mengubah JSON string ke POJO),
-Navigation (Bottom Navigation dan Mobile Navigation), 
-Retrofit (Retrofit sebagai request data ke server),
-ViewModel dan Material Components
-dsd
+Libraries diantaranya:
+1. Database: Pada login dan register, kami menggunakan database Firebase sebagai utama
+2. Lottie (Libraries yang menampilkan sebagai animasi dalam bentuk JSON dan menggunakan animasi yang sudah jadi di https://lottiefiles.com),
+3. Moshi (Moshi sebagai mengubah JSON string ke POJO),
+4. Navigation (Bottom Navigation dan Mobile Navigation), 
+5. Retrofit
+6. ViewModel dan Material Components
+dsb
